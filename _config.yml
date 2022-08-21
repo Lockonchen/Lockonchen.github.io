@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/junzhe-chen-56a4021a0/
+  linkedin         : junzhe-chen-56a4021a0/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
-  weibo            :
+  weibo            : https://www.zhihu.com/column/c_1047802433438363648
   zhihu            : https://www.zhihu.com/column/c_1047802433438363648
   xing             :
   youtube          :
@@ -179,12 +179,12 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  #publications:
-  #  output: true
-  #  permalink: /:collection/:path/
-  #portfolio:
-  #  output: true
-  #  permalink: /:collection/:path/
+  publications:
+    output: false
+    permalink: /:collection/:path/
+  portfolio:
+    output: false
+    permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
