@@ -11,21 +11,25 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, University of Waterloo, 2020
+* B.S. in Applied Physics, Hefei University of Technology, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* April.2022-Present: Quantum Measurement and Control Researcher
+  * Origin Quantum
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  #* Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
+* May.2021-Mar.2022: Quantum Device Engineer
+  * Origin Quantum
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  #* Supervisor: Professor Hub
+
+* Spet.2019-Jan.2020: Undergraduate Research Assistant
+  * Institute for Quantum Computing
+  * Duties included: PHYS 437A Reseach Project
+  #* Supervisor: Professor Adrian Lupascu
   
 Skills
 ======
