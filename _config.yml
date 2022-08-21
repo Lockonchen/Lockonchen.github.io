@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "An ergonomic chairs is niiiiiice"
+title                    : "An ergonomic chair is niiiiiice!"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -179,12 +179,12 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: false
-    permalink: /:collection/:path/
-  portfolio:
-    output: false
-    permalink: /:collection/:path/
+  #publications:
+  #  output: true
+  #  permalink: /:collection/:path/
+  #portfolio:
+  #  output: true
+  #  permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
