@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
-  weibo            : https://www.zhihu.com/column/c_1047802433438363648
+  weibo            : 
   zhihu            : https://www.zhihu.com/column/c_1047802433438363648
   xing             :
   youtube          :
@@ -188,6 +188,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  notes:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -243,6 +246,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _notes
+  - scope:
+      path: ""
+      type: notes
+    values:
+      layout: notes
       author_profile: true
       share: true
 
