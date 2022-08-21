@@ -19,12 +19,10 @@ Work experience
 * April.2022-Present: Quantum Measurement and Control Researcher
   * Origin Quantum
   * Duties included: Tagging issues
-  #* Supervisor: Professor Git
 
 * May.2021-Mar.2022: Quantum Device Engineer
   * Origin Quantum
   * Duties included: Merging pull requests
-  #* Supervisor: Professor Hub
 
 * Spet.2019-Jan.2020: Undergraduate Research Assistant
   * Institute for Quantum Computing
