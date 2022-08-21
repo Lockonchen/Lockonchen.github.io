@@ -5,6 +5,7 @@ type: "Conference proceedings talk"
 permalink: /_talks/2022-07-23-symposium
 venue: "sd"
 date: 2022-07-23
+paperurl: 'http://lockonchen.github.io/_talks/Present_my_projects.pdf'
 location: "Shenzhen, CHN"
 ---
 
