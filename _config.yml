@@ -112,6 +112,7 @@ author:
   twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
+  zhihu            : https://www.zhihu.com/column/c_1047802433438363648
   xing             :
   youtube          :
   wikipedia        :
@@ -179,10 +180,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
