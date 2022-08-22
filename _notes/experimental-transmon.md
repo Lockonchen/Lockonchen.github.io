@@ -10,7 +10,6 @@ location: "Hefei, China"
 
 This note review my theoretical learning and experimental experience at Origin Quantum. I will update it iterately.
 
-======
 Download
 ======
 Download my presentation slides here: [Experimental view of Transmon Qubits(in Chinese)](http://lockonchen.github.io/files/Notes_for_superconducting_qubits.pdf)
