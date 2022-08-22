@@ -1,8 +1,8 @@
 ---
 title: "Teaching experience 1"
-collection: teaching
+collection: notes
 type: "Undergraduate course"
-permalink: /notes/experimental/transmon
+permalink: /notes/experimental-transmon
 venue: "University 1, Department"
 date: 2021
 location: "Hefei, China"
