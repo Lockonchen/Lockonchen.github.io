@@ -3,7 +3,7 @@ title: "Symposium of quantum dynamics Summer 2022"
 collection: talks
 type: "Conference proceedings talk"
 permalink: /_talks/2022-07-23-symposium
-venue: xx
+venue: "xx"
 date: 2022-07-23
 location: "Shenzhen, CHN"
 ---
