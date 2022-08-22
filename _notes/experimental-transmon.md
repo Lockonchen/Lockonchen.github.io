@@ -12,6 +12,6 @@ This note review my theoretical learning and experimental experience at Origin Q
 
 Heading 2
 ======
-Download my presentation slides here: [Experimental view of Transmon Qubits(in Chinese)](http://lockonchen.github.io/files/Notes_for superconducting_qubits.pdf)
+Download my presentation slides here: [Experimental view of Transmon Qubits(in Chinese)](http://lockonchen.github.io/files/Notes_for_superconducting_qubits.pdf)
 
 
