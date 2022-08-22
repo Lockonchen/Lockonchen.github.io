@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-A quantum beginner. 
+I am a quantum engineer working at Origin Quantum. 
 
 
 ======
