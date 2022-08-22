@@ -2,19 +2,18 @@
 title: "Experimental view of Transmon Qubits(in Chinese)"
 collection: notes
 type: "My personal notes"
-permalink: /notes/experimental-transmon
+permalink: /files/Notes_for_superconducting_qubits
 venue: "Origin Quantum"
 date: 2021-01-02
 location: "Hefei, China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
 Heading 2
 ======
 
-Heading 3
-======
+# Heading 1
+
+This note review my theoretical learning and experimental experience at Origin Quantum. I will update it iterately. 
+
+
+
