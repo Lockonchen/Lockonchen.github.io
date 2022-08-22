@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "An ergonomic chair is niiiiiice!"
+title                    : "Sitting on an ergonomic chair is niiiiiice!"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
