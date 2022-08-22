@@ -1,8 +1,8 @@
 ---
 title: "Experimental view of Transmon Qubits"
-collection: teaching
+collection: notes
 type: "My personal notes"
-permalink: /_notes/experimental-transmon
+permalink: /notes/experimental-transmon
 venue: "Origin Quantum"
 date: 2021-01-02
 location: "Hefei, China"
