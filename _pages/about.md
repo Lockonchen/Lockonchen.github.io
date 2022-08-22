@@ -8,13 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Thanks to the authors and contributors of [academicpages template](https://github.com/academicpages/academicpages.github.io) so I can build up my personal website so easily!
+A quantum beginner. 
 
-Junzhe Chen's personal website
+
 ======
 
-# Adfjlskdg
 
+
+# Acknowledgement
+
+Thanks to the authors and contributors of [academicpages template](https://github.com/academicpages/academicpages.github.io) so I can build up my personal website so easily!
 
 For more info
 ------
