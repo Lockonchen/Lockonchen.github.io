@@ -8,7 +8,7 @@ date: 2022-07-23
 location: "Shenzhen, CHN"
 ---
 
-Communication between groups. Quantum dynamics, experimental superconducting qubits, quantum simulation, error-correction, quantum measurement, many-body. 
+Communicative activity between some research groups. Topics includes: Quantum dynamics, experimental superconducting qubits, quantum simulation, error-correction, quantum measurement metrology, many-body localization, etc. 
 
 Download my presentation slides here:
 [Topic: Schemes for improvement of design, control, and readout of
