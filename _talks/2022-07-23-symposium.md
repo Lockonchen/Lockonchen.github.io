@@ -8,7 +8,7 @@ date: 2022-07-23
 location: "Shenzhen, CHN"
 ---
 
-Communicative activity held in SUSTech to connect between some research groups. Topics includes: Quantum dynamics, optical quantum computing, experimental superconducting qubits, quantum simulation, error-correction, quantum measurement metrology, many-body localization, etc. 
+Symposium held in SUSTech to connect research groups. Topics includes: Quantum dynamics, optical quantum computing, experimental superconducting qubits, quantum simulation, error-correction, quantum measurement metrology, many-body localization, etc. 
 
 Download my presentation slides here:
 [Topic: Schemes for improvement of design, control, and readout of
