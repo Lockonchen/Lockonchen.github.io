@@ -10,6 +10,8 @@ location: "Shenzhen, CHN"
 
 Symposium held in SUSTech to connect research groups. Topics includes: Quantum dynamics, optical quantum computing, experimental superconducting qubits, quantum simulation, error-correction, quantum measurement metrology, many-body localization, etc. 
 
+I tried to present the whole streamline of producing superconducting qubits chips and how we extract many methods from everywhere to improve the performance.
+
 Download my presentation slides here:
 [Topic: Schemes for improvement of design, control, and readout of
 Transmon qubits](http://lockonchen.github.io/files/Present_my_projects.pdf)
