@@ -16,7 +16,12 @@ Education
 
 Work experience
 ======
-* April. 2022 - Present: Quantum Measurement and Control Researcher
+* Mar. 2022 - Present: Visiting Student
+  * Shenzhen Institute for Quantum Science and Engineering
+  * Project: Geometric Description of Filter Function Formalism in Quantum Control 
+  * Supervisor: Prof. Xiuhao Deng
+
+* Apr. 2022 - Feb. 2023: Quantum Measurement and Control Researcher
   * Origin Quantum
   * Duties included: Tagging issues
 
@@ -26,16 +31,16 @@ Work experience
 
 * Spet.2019 - Jan.2020: Undergraduate Research Assistant
   * Institute for Quantum Computing
-  * Duties included: PHYS 437A Reseach Project
-  * Supervisor: Professor Adrian Lupascu
+  * Project: Quantum Optimial Control for in Superconducting Qubits
+  * Supervisor: Prof. Adrian Lupascu
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Quantum Mechamics
+  * Closed and Open Quamtum System
+* Calibration of Superconducting Qubits
+  * Quantum Measurement and Control Hardware
+  * Software Package Maintenance
 * Skill 3
 
 Publications
