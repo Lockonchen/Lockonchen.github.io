@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sitting on an ergonomic chair is niiiiiice!"
+title                    : "Relax in Hilbert Space"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -87,7 +87,7 @@ author:
   employer         : "Origin Quantum"
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    :  #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            :  j794chen@uwaterloo.ca
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -112,7 +112,7 @@ author:
   twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            : 
-  zhihu            : https://www.zhihu.com/column/c_1047802433438363648
+  zhihu            : # https://www.zhihu.com/column/c_1047802433438363648
   xing             :
   youtube          :
   wikipedia        :
