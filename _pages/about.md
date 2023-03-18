@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I worked as a quantum engineer at Origin Quantum. I am doing a RA position at Shenzhen Institute for Quantum Science and Engineering. I am going to take MSc study!
+I worked as a quantum engineer at Origin Quantum. I am doing a RA position at Shenzhen Institute for Quantum Science and Engineering. I am going to MSc study!
 
 
 ======
