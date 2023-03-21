@@ -12,3 +12,5 @@ location: "Shenzhen, CN"
 
 Download my presentation slides here:
 [Filter Function Formalism](https://github.com/Lockonchen/Lockonchen.github.io/blob/master/_talks/2023.03.16%20Journal%20Club.pdf)
+Video:
+[Filter Function Formalism](https://www.bilibili.com/video/BV1QP411Z7ms/?spm_id_from=333.999.0.0)
